@@ -1,3 +1,34 @@
 * {
     margin: 0;
+    list-style-type: none;
+}
+
+ul {
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#navbar {
+    border: solid 2px black;
+    padding: 10px;
+}
+
+.nav-link {
+    padding: 10px;
+}
+
+#main-doc {
+    border: solid 2px black;
+}
+
+.main-selection {
+    border: solid 2px black;
+}
+
+code {
+    border: solid 2px black;
 }
